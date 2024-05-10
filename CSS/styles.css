@@ -8,3 +8,9 @@
 .margin1{
     margin:4%;
 }
+.background1{
+    background-color: rgba(170, 127, 127, 0.286);
+}
+.carousel-item{
+    width: 140% !important;
+}
